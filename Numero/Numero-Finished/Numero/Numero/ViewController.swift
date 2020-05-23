@@ -82,8 +82,6 @@ class ViewController: UIViewController {
       play(true)
     }
   }
-  
-    ;asdh;alsdv;aosidjv'
 }
 
 // MARK: - Private methods
