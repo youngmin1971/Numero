@@ -68,6 +68,7 @@ class ViewController: UIViewController {
     
     let aaa = "asdfasdf"
     print(aaa)
+    print("asdfasdfasd")
   }
   
   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
