@@ -71,17 +71,6 @@ class ViewController: UIViewController {
     print("asdfasdfasd")
       print("asdfasdfasd")
 
-        print("asdfasdfasd")
-
-        print("asdfasdfasd")
-
-        print("asdfasdfasd")
-
-        print("asdfasdfasd")
-    print("asdfasdfasd")
-    print("asdfasdfasd")
-    print("asdfasdfasd")
-    print("asdfasdfasd")
     print("asdfasdfasd")
     print("asdfasdfasd")
 }
