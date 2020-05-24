@@ -65,6 +65,9 @@ class ViewController: UIViewController {
   override func viewDidAppear(_ animated: Bool) {
     super.viewDidAppear(animated)
     showNextPlay()
+    
+    let aaa = "asdfasdf"
+    print(aaa)
   }
   
   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
