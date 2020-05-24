@@ -71,9 +71,7 @@ class ViewController: UIViewController {
       print(aaa)
       print(aaa)
       print(aaa)
-      print(aaa)
-      print(aaa)
-      print(aaa)
+ 
       print(aaa)
       print(aaa)
       print(aaa)
