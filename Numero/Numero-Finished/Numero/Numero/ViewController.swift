@@ -66,7 +66,8 @@ class ViewController: UIViewController {
     super.viewDidAppear(animated)
     showNextPlay()
     
-    print("asdasda")
+    let aaa = "asdfasdf"
+    print(aaa)
   }
   
   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
@@ -84,7 +85,6 @@ class ViewController: UIViewController {
       play(true)
     }
   }
-  
 }
 
 // MARK: - Private methods
