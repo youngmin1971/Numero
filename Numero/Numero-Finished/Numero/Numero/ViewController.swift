@@ -68,7 +68,12 @@ class ViewController: UIViewController {
     
     let aaa = "asdfasdf"
     print(aaa)
-  }
+    print("asdfasdfasd")
+      print("asdfasdfasd")
+
+    print("asdfasdfasd")
+    print("asdfasdfasd")
+}
   
   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
     if segue.identifier == "gameDoneSegue" {
